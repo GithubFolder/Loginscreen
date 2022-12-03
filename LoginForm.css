@@ -1,0 +1,22 @@
+.container{
+    /* @media(max-width:100%){
+    } */
+    display: flex;
+    flex-direction: row;
+}
+
+.leftcontainer{
+    @media (min-width:500px) {
+        
+    }
+}
+
+.rightcontainer{
+    @media (min-width:500px) {
+        
+    }
+}
+
+*{
+    background-color: antiquewhite;
+}
